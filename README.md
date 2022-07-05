@@ -1,4 +1,4 @@
-# -Optimizing-Neural-Networks-Titanic--Project
+# Optimizing-Neural-Networks-Titanic--Project
 
 
 ## Background 
@@ -95,4 +95,4 @@ Test Dataset = https://bit.ly/2XmmAYe
 
 ## Acknowledgements 
 
-The dataset was sourced from Kaggle [Link]
+The dataset was sourced from Kaggle
