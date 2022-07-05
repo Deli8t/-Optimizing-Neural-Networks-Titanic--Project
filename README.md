@@ -6,13 +6,13 @@
 The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone on board, resulting in the death of 1502 out of 2224 passengers and crew.
 
 
-Problem Statement 
+## Problem Statement 
 
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others. In this challenge, you have been tasked to build a neural network model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). You will be required to perform feature engineering then tune your model. 
 
 
-Hints (Feature Engineering): 
+## Hints (Feature Engineering): 
 
 
 1. Create a new feature title by extracting from passenger names i.e. Mrs, Miss, Mr and Master. 
@@ -27,7 +27,7 @@ Hints (Feature Engineering):
 4. Create a new feature fare_per_person i.e. Fare / Family Size. 
 
 
-Dataset Information
+## Dataset Information
 
 
 You have been given two similar datasets that include passenger information like name, age, gender, socio-economic class, etc. One dataset is titled `train.csv` and the other is titled `test.csv`.
@@ -51,7 +51,7 @@ Train Dataset = https://bit.ly/31azYjb
 Test Dataset = https://bit.ly/2XmmAYe 
 
 
-Dataset Glossary
+## Dataset Glossary
 
 
 ● survival = Survival, 0 = No, 1 = Yes 
@@ -93,6 +93,6 @@ Dataset Glossary
 ● Some children travelled only with a nanny, therefore parch=0 for them. 
 
 
-Acknowledgements 
+## Acknowledgements 
 
 The dataset was sourced from Kaggle [Link]
